@@ -1,6 +1,6 @@
 /*
 
-For this assignment we'll be using a special 'hospital' scheme, which contains data describing doctors, patients,
+For this assignment we'll be using a special 'hospital' database, which contains data describing doctors, patients,
 nurses, staffing schedules, procedures, prescriptions, and more! You will see that this hospital has a world class
 staff :)
 
@@ -79,7 +79,17 @@ FROM Room
 GROUP BY Block_Code
 ORDER BY percent_utilized DESC;
 
-
+SELECT P.Name AS Physician, Pr.Name AS Procedure, U.Date, Pt.Name AS Patient
+  FROM Physician P, Undergoes U, Patient Pt, Procedures Pr
+  WHERE U.Patient = Pt.SSN
+    AND U.Procedures = Pr.Code
+    AND U.Physician = P.Employee_ID
+    AND NOT EXISTS
+              (
+                SELECT * FROM Trained_In T
+                WHERE T.Treatment = U.Procedures
+                AND T.Physician = U.Physician
+              );
 
 
 
