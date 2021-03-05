@@ -1,7 +1,23 @@
-/*QUESTION 1: Write a SQL statement showing a list of Physician names, the total number of procedures
-  each Physician is certified to perform, and the total number of procedures each Physician performed.
-  Only show physicians who have been trained in a procedure or performed a procedure.
-  Please write your SQL script using a CTE. */
+/*
+
+For this assignment we'll be using a special 'hospital' scheme, which contains data describing doctors, patients,
+nurses, staffing schedules, procedures, prescriptions, and more!
+
+Write a SQL statement showing a list of Physician Names, the total number of procedures
+each Physician is certified to perform, and the total number of procedures each Physician performed.
+Only show physicians who have been trained in a procedure or performed a procedure.
+Please write your SQL script using a CTE.
+
+Your result should look like this
+
+      ```
+        Name              | num_trained_procedures | performed_procedures
+        ------------------+------------------------+------------
+        Christopher Turk  | 5                      | 3
+        John Wen          | 7                      | 2
+        Todd Quinlan      | 3                      | 1
+      ```
+  */
 
 WITH num_trained_procedures AS (
         SELECT P.Name AS Physicians,
