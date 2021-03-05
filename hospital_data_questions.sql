@@ -183,7 +183,6 @@ SELECT P.Name AS Physician, Pr.Name AS Procedure, U.Date, Pt.Name AS Patient
         Molly Clock                 | 5             | 4
   ```
         (4 rows)
-
 */
 
 SELECT P.Name,
@@ -193,7 +192,6 @@ FROM Prescribes Pr
     CROSS JOIN  Physician P on Pr.Physician = P.Employee_ID
 WHERE Pr.Appointment IS NULL
 GROUP BY Pr.Physician;
-
 
 /*
 Write a query that shows doctors who performed a procedure and the total revenue they received each year
@@ -259,7 +257,6 @@ SELECT P.Name AS physician_name,
     AND U.Date > T.Certification_Expires;
 
 /*
-
 Have patients ever met with doctors who are not their primary care providers (PCP)? Show a list of instances where
 this has happened. Your table should include the patient's name, the physician they met with (not their PCP),
 their actual PCP, and the day of the week of their appointment (hint, a CASE statement might be useful here).
@@ -274,12 +271,7 @@ Your table should look like...
         Dennis Doe    | Percival Cox         | Christopher Turk           | Friday
       ```
         (5 rows)
-
-
-
 */
-
-
 
 SELECT Pt.Name AS patient_name,
        Ph.Name AS physician_name,
