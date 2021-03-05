@@ -1,7 +1,10 @@
 /*
 
 For this assignment we'll be using a special 'hospital' scheme, which contains data describing doctors, patients,
-nurses, staffing schedules, procedures, prescriptions, and more!
+nurses, staffing schedules, procedures, prescriptions, and more! You will see that this hospital has a world class
+staff :)
+
+Before jumping into the questions, it would be helpful to review the database schema and each table!
 
 Write a SQL statement showing a list of Physician Names, the total number of procedures
 each Physician is certified to perform, and the total number of procedures each Physician performed.
@@ -38,10 +41,20 @@ FROM num_trained_procedures N
 LEFT JOIN performed_procedures P ON N.Physicians = P.Physicians
 WHERE N.num_trained_procedures > 0 OR P.performed_procedures > 0;
 
-/*QUESTION 2: What is the total number of hours each nurse spent on call across call shifts?
-  How many shifts did each nurse work?
-  Your final output should display the nurse's name, total number of hours worked, and
-  total number of call shifts worked*/
+/*
+What is the total number of hours each nurse spent on call across call shifts?
+How many shifts did each nurse work?
+Your final output should display the nurse's name, total number of hours worked, and total number of call shifts worked,
+which looks like
+
+      ```
+        Name              | tot_call_hours | num_shifts
+        ------------------+----------------+------------
+        Carla Espinosa    | 14             | 2
+        Laverne Roberts   | 7              | 1
+        Paul Flowers      | 24             | 3
+      ```
+*/
 
 SELECT N.Name,
        SUM(CAST((julianday(On_Call_End) - julianday(On_Call_Start)) * 24.0 As INTEGER)) AS tot_call_hours,
