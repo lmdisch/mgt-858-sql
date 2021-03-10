@@ -373,8 +373,8 @@ INSERT INTO rooms VALUES(609,'Single');
 INSERT INTO rooms VALUES(610,'Single');
 
 
-/*hospital_stays table*******************************************************************************************************************/
-DROP TABLE IF EXISTS hospital_stays CASCADE;
+/*stays table*******************************************************************************************************************/
+DROP TABLE IF EXISTS stays CASCADE;
 CREATE TABLE stays (
   stay_id int GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
   patient int NOT NULL REFERENCES patients(SSN),
