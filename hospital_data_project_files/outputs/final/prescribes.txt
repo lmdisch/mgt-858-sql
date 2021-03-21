@@ -1,0 +1,9 @@
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(3,500000278,2,'2021-03-23','125');
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(13,500000075,3,'2021-03-23','25');
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(13,500000494,1,'2021-03-23','125');
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(7,500000469,1,'2021-03-23','50');
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(1,500000249,2,'2021-03-23','25');
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(4,500000118,1,'2021-03-23','5');
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(3,500000315,6,'2021-03-23','125');
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(4,500000032,1,'2021-03-23','200');
+INSERT INTO prescribes (physician, patient, medication, appt_date, dose) VALUES(11,500000345,6,'2021-03-23','50');

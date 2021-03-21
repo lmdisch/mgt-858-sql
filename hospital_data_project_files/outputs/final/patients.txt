@@ -1,0 +1,1000 @@
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000009, 'Tyler Anderson', '94868 Mcdonald Mountain Suite 012
+Waltermouth, MA 39092', '590-2314', 20937034, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000010, 'Sara Bailey', '75890 Keith Viaduct Apt. 867
+South Sonyaland, OK 19529', '430-6059', 12287839, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000011, 'Charles Lambert', '88555 Miller Dale Apt. 667
+Lake Eric, ME 37788', '912-4418', 79292165, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000012, 'Tammy Sweeney', '8263 Nichols Mountains Apt. 072
+East Danamouth, KS 75107', '972-9563', 46086477, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000013, 'Johnny Jones', '2503 Wilkins Glen
+West Jaredchester, ID 49395', '520-7011', 67485656, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000014, 'Lisa Montgomery', '172 Keith Oval
+Cynthiatown, WV 45432', '769-7865', 29401315, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000015, 'Andrea Barrera', '063 Green Ford
+West Justinshire, SC 03259', '489-9837', 90869375, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000016, 'Brent Richardson', '273 Schwartz Glens
+Ethanfurt, NY 30694', '559-7752', 17043496, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000017, 'Matthew Gray', '25864 Maria Shoal Apt. 894
+Harrisview, NY 91664', '669-7938', 39739396, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000018, 'Tyler Gill', '4486 Edwards Estates Suite 756
+Tammyfurt, FL 19371', '270-8512', 38094157, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000019, 'Kent Farmer', '9118 Anthony Station
+West Sharon, IA 20486', '337-7770', 95990788, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000020, 'Justin Griffin', 'PSC 7402, Box 9214
+APO AE 57788', '274-3558', 86861376, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000021, 'James Gallagher', '5663 Williams Viaduct Apt. 018
+Port Rebeccaborough, DC 54767', '822-8320', 77807662, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000022, 'Lori Crosby', '00980 Tate Tunnel
+Traceymouth, WA 48869', '940-4153', 12199323, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000023, 'Emily Ferguson', '8891 Robin Orchard
+Patriciaton, VT 16944', '615-8503', 58858942, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000024, 'Shawn Hill', '858 Le Streets
+Woodstown, KS 98624', '923-7414', 14403536, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000025, 'Ralph Clark', '43337 James Loop Suite 703
+Allenhaven, IL 46397', '336-8553', 98509955, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000026, 'Tiffany Ray', '1946 Miller Bypass Apt. 108
+Samanthachester, CA 47463', '375-8812', 50460655, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000027, 'Stephanie Hoover', 'USNS Miller
+FPO AA 83027', '713-1448', 91367782, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000028, 'Casey Ware', '905 Kevin Mews
+Fredericktown, FL 38383', '140-3501', 60994143, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000029, 'Justin Campbell', 'Unit 2737 Box 1957
+DPO AE 63884', '976-6745', 86378638, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000030, 'Leah Vega', 'PSC 4244, Box 9381
+APO AP 59869', '976-8783', 54977497, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000031, 'Michele Caldwell', '174 Gardner River Apt. 897
+East Stephanie, UT 47241', '902-4765', 62296472, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000032, 'Heidi Evans', '484 Taylor Row Apt. 522
+East Gailmouth, ND 34849', '698-6596', 34038146, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000033, 'Michelle Gordon', '793 Woodard Trail Suite 549
+Port Richard, MA 37651', '392-1814', 91483270, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000034, 'Shannon Rivera', '65518 Foster Station
+Jessefurt, VT 94101', '514-7324', 25822777, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000035, 'Amber Dominguez', '91457 Zachary Fort Apt. 274
+Cookside, WY 23998', '484-1576', 46667552, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000036, 'John Fuller', '484 Jennifer Cove
+Erinborough, IA 32714', '514-7269', 33052027, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000037, 'Brandi Colon', '13994 Vanessa Corners Suite 153
+South Barbara, NH 95551', '127-2079', 90441152, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000038, 'Randall Stanley', '598 Julia Green Suite 838
+Josestad, MI 15578', '617-3287', 40380380, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000039, 'Kendra Young', '6416 David Highway Suite 023
+Port Travis, DE 94357', '526-6169', 98254306, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000040, 'Nicholas Barnes', '291 Tina Road
+New Megan, CT 65304', '101-2990', 75892028, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000041, 'Steven Salazar', '76453 Klein Oval Suite 452
+Port Staceyton, TX 51923', '370-9119', 54980269, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000042, 'Timothy Mccarthy', '810 Meghan Islands Suite 430
+East Margaretmouth, WY 21467', '103-2302', 92107152, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000043, 'Christine Nunez', '11936 Davis Turnpike Suite 581
+Floresfurt, AZ 10297', '840-2692', 63734392, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000044, 'Erica Lynch', '161 Johnny Manors
+New Manuelstad, CA 12168', '798-1082', 27075289, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000045, 'Dylan Roy', '60335 Megan Station Apt. 971
+West Rachelmouth, VA 78132', '797-3197', 53182010, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000046, 'Deanna Cole', '366 Johnson Fork Suite 357
+New Coreytown, OR 73056', '481-3705', 19669876, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000047, 'Mason Tran', '847 Reeves Shore
+West Scott, MI 11620', '154-1578', 42714438, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000048, 'Tracey Thomas', '9267 Morrison Walks
+Elizabethhaven, NM 52345', '303-8165', 92505497, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000049, 'Douglas Sloan', '62018 Frederick Mount Suite 428
+Dorothyside, IN 37909', '570-1797', 79252185, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000050, 'Thomas Jones', '1554 Lara Prairie Apt. 313
+Allenview, UT 50033', '598-6163', 92515403, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000051, 'Faith Carroll', 'Unit 2019 Box 4430
+DPO AE 61838', '544-5864', 21350467, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000052, 'Daniel Morales', 'Unit 6519 Box 1446
+DPO AE 70883', '208-1755', 40150811, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000053, 'Victor Hart', '866 Alyssa Ridges Apt. 943
+Colehaven, NY 07141', '884-5603', 94827904, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000054, 'Steven Sims', '444 Melissa Spur
+Port Spencerville, GA 21981', '861-1647', 64173739, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000055, 'Alexandra Powell', '704 Griffin Junction Suite 657
+Hernandezport, TN 56376', '404-5143', 42114429, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000056, 'Kimberly Pratt', '209 Daniel Freeway Apt. 579
+Danielview, OR 75322', '907-2442', 91001205, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000057, 'Dr. Lindsey Harris DDS', '298 Pacheco Garden Suite 178
+Wendyville, VT 72101', '623-6839', 42095344, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000058, 'Nicole Johnson', '89592 Ferguson Islands Apt. 504
+Michaelberg, TX 72905', '257-1551', 72696480, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000059, 'Deborah Mendoza', '56580 Holly Cape Suite 832
+Port Calebfurt, RI 18188', '597-4143', 49717439, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000060, 'Melissa Riley', '398 Jared Bridge Suite 775
+Terrellfurt, DE 70629', '842-3544', 63356311, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000061, 'Natalie Ortiz', '922 Johnson Stream Apt. 151
+Melanieburgh, FL 83660', '913-4662', 67697912, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000062, 'Steven Brown', '647 Barbara Branch Suite 829
+Conwayborough, ND 71895', '517-9135', 15131666, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000063, 'Kimberly Russell', '650 Santana Circle Apt. 062
+West Rosechester, ND 31548', '150-9490', 56637851, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000064, 'Alice Smith', '09064 Colon Place
+Lake David, KY 87858', '214-1242', 56176560, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000065, 'Kerry Simon', '099 Palmer Rapids
+Aprilborough, NC 78283', '297-4467', 27585617, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000066, 'Shannon King', '487 Charles Flats
+West Janice, NJ 18963', '456-7686', 30029818, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000067, 'Lucas Luna', '234 Curtis Harbors
+Port Alejandroton, KS 90715', '861-6267', 51699064, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000068, 'Marcus Cardenas', '5929 Christopher Knoll Suite 754
+Brendastad, DC 84330', '802-1964', 32463194, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000069, 'Jose Gonzales', '364 Daniel Plaza Suite 216
+Lynchport, IA 98938', '710-4362', 57726880, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000070, 'Debra Pierce', '068 Joan Creek Apt. 967
+Lake Heatherville, NC 19828', '219-1092', 10486145, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000071, 'Nicole Chapman', '62627 Higgins Trafficway
+Medinaville, FL 87668', '568-4393', 28603423, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000072, 'Donna Farley', '9387 Thompson Overpass
+Daybury, MA 84573', '950-2544', 65581368, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000073, 'Gina White', '7447 Matthew Street Suite 260
+Kellyfort, VT 90558', '539-1014', 88780898, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000074, 'Frederick Decker', '98645 White Forest
+East Kevinstad, AR 69112', '711-1492', 60394708, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000075, 'Mr. John Sutton', '516 Brent Stravenue Suite 965
+New Julieside, OH 85272', '923-1966', 22785011, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000076, 'Ray Spencer', '847 Adrian Extension
+Mitchellborough, ND 15633', '476-8250', 22448662, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000077, 'Robin Gibson', '116 Calvin Plaza Suite 251
+North Joyce, LA 39391', '399-9704', 29863422, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000078, 'David Rodriguez', '28788 Rodriguez Trail
+South Sara, AL 78833', '641-9165', 71632002, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000079, 'Martin Pitts', '18523 Debbie Avenue
+Annchester, IN 03749', '157-6825', 32596742, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000080, 'Jordan Medina', '55731 Kyle Road Apt. 762
+Hernandezchester, ND 66367', '496-9361', 29592789, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000081, 'Julia Lyons', '30650 Pope Expressway Apt. 374
+New Carlaland, OH 09699', '976-5829', 70275874, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000082, 'Kristina Young', 'Unit 5924 Box 8617
+DPO AP 73892', '972-3854', 18922766, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000083, 'Anthony Kent', '56879 Paul Radial Apt. 461
+Jacobbury, HI 51312', '272-7023', 16885310, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000084, 'Richard Jones', '74558 Erica Cliff Suite 409
+New Bonnieburgh, KY 59876', '366-4041', 21954070, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000085, 'Rhonda Joyce', '98616 Thompson Tunnel Suite 559
+East Gabriel, LA 75384', '411-4031', 65430482, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000086, 'Pam Smith', '7312 Smith Terrace
+North Eddie, AR 65944', '990-1785', 39650817, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000087, 'Meghan Maxwell', 'USNV Huffman
+FPO AA 45069', '543-1169', 34672258, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000088, 'Richard Davis', '152 Owens Grove
+Port Casey, AL 40569', '786-2976', 60487810, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000089, 'Donald Navarro', '028 Jill Flat
+Maryland, MO 45317', '579-7878', 27164700, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000090, 'William Fleming', '46118 Brown Vista
+South Justin, WI 68777', '159-1202', 77078555, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000091, 'Bonnie Sawyer', '074 Hoffman Square Apt. 769
+Margaretmouth, KS 41876', '428-6102', 44797277, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000092, 'Richard Martinez', '92589 Johnson Road Apt. 764
+New Allen, DE 47567', '776-3510', 92207245, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000093, 'Mrs. Alicia Owens', 'USS Mcintyre
+FPO AA 51064', '282-8296', 86156361, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000094, 'Denise Rose', '530 Aaron Park Suite 002
+New Stacyville, IN 82045', '278-2860', 39310156, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000095, 'Olivia Simmons', '48941 Mccarty Plaza Apt. 685
+South Bryan, MN 59693', '604-9804', 74869180, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000096, 'Penny Fuentes', '475 Sarah Lodge Apt. 837
+Port Michael, WA 74818', '651-4968', 75080937, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000097, 'Tyler Daniels', '64791 Alyssa Crescent
+Port Deborahburgh, OK 45156', '910-8579', 43175329, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000098, 'Curtis Wilson', '86198 White Ridges
+Williamland, ME 52113', '736-2232', 27033663, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000099, 'Michael Ray', '74436 John Place
+Sherrybury, SD 54364', '882-2224', 46780304, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000100, 'Andrea Lopez', '6516 Catherine Spurs Apt. 959
+Port Ronaldfort, NE 96409', '207-1993', 40923042, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000101, 'Diana Coleman', '43327 Wright Fall
+North Steven, ID 63303', '380-2435', 41051102, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000102, 'Emily Chandler', '6686 Angela Trail Apt. 113
+North Michellefort, KS 09347', '981-7882', 75296301, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000103, 'Christopher Mcdaniel', '26614 Jones Trail Apt. 719
+Kingtown, AR 85024', '758-8524', 81529474, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000104, 'Lori Sanchez', '2547 Maynard Lakes
+South Dawn, WY 04310', '562-7452', 70464035, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000105, 'Allison Moreno', '56475 Watkins Cove Suite 871
+Tonymouth, DC 81740', '594-2928', 38974380, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000106, 'Julie Rice', '161 Colin Club
+East Frances, DE 45950', '358-6653', 79153221, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000107, 'Ryan Shah', '46491 Romero Brooks Apt. 515
+North Stephen, MA 02875', '956-6683', 93902902, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000108, 'David Smith', '52536 Roman Junctions Suite 441
+Bauerport, NC 90082', '305-3177', 69323133, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000109, 'Jason Contreras', '94236 Perez Fork
+Lake Amandamouth, NH 20614', '526-8091', 27004385, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000110, 'Jacqueline Lucero', '174 Sellers Port
+Perezstad, IN 75008', '811-7195', 88608355, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000111, 'Patricia Murphy', '61303 Larry Common Apt. 751
+Kurtport, OR 86472', '847-6703', 13825157, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000112, 'Dylan Chavez', '4819 Francisco Extension
+Lake Gregory, WI 82585', '402-8301', 32722675, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000113, 'David Summers', '2575 Lucas Course
+Gregoryfurt, TX 33182', '971-4250', 10455174, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000114, 'James Gibson', 'PSC 4691, Box 3304
+APO AA 06139', '640-7451', 36407437, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000115, 'Catherine Stevens', '26078 Scott Land Suite 558
+Garciafurt, GA 01236', '129-7152', 17179190, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000116, 'Michael Brandt', '393 Lewis Pine Suite 123
+New Brianberg, MN 23274', '532-3427', 24791139, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000117, 'Amanda Stone', '7177 Jennifer Point
+North Feliciachester, IN 60349', '421-7118', 92730240, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000118, 'Steven Pena', '571 Brianna Square Suite 346
+Scottmouth, MI 28643', '713-8523', 67724627, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000119, 'Lisa Stephens', '48714 Destiny Squares
+Alexandrashire, MS 22978', '352-7197', 29667880, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000120, 'Brittany Hall', '98652 Pena Lodge
+Sarahfort, ME 27751', '358-7233', 80844878, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000121, 'Heather Carter', '17048 Kyle Curve
+Mitchellland, IL 47772', '259-6460', 77078917, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000122, 'Matthew Lawson', '93443 Smith Lakes Apt. 888
+Port Robertbury, DE 61197', '576-7963', 59776454, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000123, 'David Mills', '7796 Smith Lights
+Chenville, UT 15801', '168-4267', 32891556, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000124, 'Michael Gates', '78067 Gloria Glens
+South Jessicamouth, CT 32378', '931-1204', 76159566, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000125, 'Nicolas Mora', '9131 Jacobs Burg
+East Kathyville, HI 82359', '937-9386', 72473432, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000126, 'Jorge Garcia', '91001 Lisa Ridge
+Tylerbury, VT 36327', '958-7020', 65117498, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000127, 'Patrick Hernandez', '717 Carol Hill Apt. 884
+West Angel, SD 64736', '976-5554', 15189300, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000128, 'Melissa Edwards', '803 Michael Course
+Sherrifort, TN 65657', '881-7238', 93839569, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000129, 'Matthew Park', '7256 Boyd Greens
+Craigview, WI 38573', '384-8571', 38754649, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000130, 'Erin Morris', 'PSC 3857, Box 9328
+APO AE 44402', '644-9491', 59817780, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000131, 'Luke Diaz', '8019 Pamela Lock
+Christopherbury, MT 93131', '477-5688', 68956183, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000132, 'Matthew Morse', '92598 Blevins Lights Suite 651
+Port Angela, OR 24931', '287-6544', 54731359, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000133, 'Jesse Kennedy', '59776 Kimberly Harbors Apt. 216
+Coxport, CT 61444', '199-8453', 86899926, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000134, 'Holly Jones', 'USNS Johnson
+FPO AA 92204', '181-2692', 76616634, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000135, 'Joshua Waters', '97188 Christopher Keys
+Salazarport, DE 45553', '153-1242', 75723213, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000136, 'Stephen Schroeder', '739 Jody Parkway Suite 765
+South Tracy, RI 94088', '199-4831', 61778928, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000137, 'Mr. Robert Mays', '671 Bill Ways
+Youngchester, DC 25211', '799-9664', 15393711, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000138, 'Michelle Adams', '37774 Stark Freeway
+Bryanville, SD 24108', '535-7125', 75245518, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000139, 'Antonio Wallace', '3282 Elizabeth Forges Suite 487
+Brooksview, FL 15758', '435-9360', 45107424, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000140, 'Nichole Arnold', '1276 Kirby Lock Suite 326
+New Kevin, NC 98984', '208-3317', 58220781, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000141, 'Bradley Hendricks', '2715 Susan Shoals Suite 625
+New Allenberg, WY 58705', '871-8470', 60748593, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000142, 'Edward Collins', '9379 Roach Parks Apt. 030
+Ramirezborough, SC 08799', '727-3331', 89804811, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000143, 'Phillip Leon', '02731 Carlos Fords
+Ruizmouth, AK 06942', '112-9387', 72460266, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000144, 'Anthony Franklin', 'Unit 1389 Box 7265
+DPO AA 08126', '187-1254', 64374058, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000145, 'Alexandra Burns', '911 Matthew Corners Suite 593
+Geraldtown, VA 81162', '190-2528', 11659476, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000146, 'Lori Green', '82194 Rachel Stream Suite 155
+Martinborough, UT 72001', '402-2945', 47823260, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000147, 'Charles Jones', '5711 Donaldson Freeway Apt. 764
+East Daniel, PA 46489', '841-1333', 13502345, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000148, 'Tina Lewis', '50093 Bradford Street Suite 361
+West Samuelbury, HI 54916', '628-9169', 12315433, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000149, 'Amy Gardner', '201 Baker Park
+Kingville, VT 14812', '305-8829', 31720773, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000150, 'Wayne Green', '7920 Matthews Vista Suite 200
+East Reneeburgh, GA 94371', '207-6217', 75672244, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000151, 'Mark Colon', '463 Kathleen Greens Suite 531
+Harrisstad, KS 90189', '139-7157', 97680984, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000152, 'Rachel Rose', '23935 Vargas Hill
+Danielton, AK 70494', '531-1606', 76326877, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000153, 'Melinda Moon', '9207 Morrow Street
+Lopezberg, NE 37943', '408-7837', 23541054, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000154, 'Javier Evans', '0618 Patrick Mountain
+Shawberg, RI 31308', '837-4027', 19930455, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000155, 'Donald Serrano', '00510 Kramer Mews Apt. 226
+North Wandaburgh, NV 68914', '337-7811', 81404056, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000156, 'Paul Brown', '3738 Shannon Center Apt. 444
+Donnaton, VT 01379', '396-5911', 72604423, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000157, 'Suzanne Ray', '2549 Steven Square Suite 928
+New Catherine, NH 82979', '991-2171', 55117311, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000158, 'Connie King', '1607 Larry Springs Apt. 151
+Michaelberg, LA 50031', '845-9313', 66140296, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000159, 'Frank James', '226 Guzman Gateway Suite 341
+Lake Jennifer, UT 89550', '297-5634', 18056722, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000160, 'Jimmy Harper', '7318 Susan River Suite 856
+West Sharonberg, WA 76702', '502-4489', 99998510, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000161, 'Kim Morales', '5071 Martin Club Suite 645
+Michaelmouth, VT 20211', '881-6455', 97998551, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000162, 'Vanessa Evans', '60863 Rivera Trail Apt. 141
+Ericbury, LA 07502', '268-8348', 43374209, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000163, 'Jesse Casey', 'Unit 7639 Box 9394
+DPO AE 31455', '450-5279', 23750593, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000164, 'Kenneth Fowler', 'Unit 2458 Box 6708
+DPO AA 18901', '507-7701', 71407338, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000165, 'Joan Walker', '91539 Compton Causeway
+Maloneshire, IA 62247', '325-9526', 40194404, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000166, 'Emily Thompson', '710 Morris Mission Apt. 769
+North Billy, ND 93067', '294-4070', 26198024, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000167, 'Jonathan York', '780 Young Village Apt. 773
+Katherinemouth, LA 90557', '572-9541', 31446617, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000168, 'Mrs. Victoria Cooper', '286 Teresa Inlet
+East Samanthabury, KY 05633', '896-2809', 48816963, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000169, 'Jeffrey Matthews', '72694 Michelle Rue Apt. 524
+South Kristinfurt, RI 98463', '963-9478', 54275593, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000170, 'Melanie Shannon', '58835 Hernandez Crescent
+North Rose, HI 90922', '135-9780', 25850173, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000171, 'Melissa Obrien', '780 Alicia Trace
+Bridgesfurt, ND 23720', '325-3873', 63956959, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000172, 'Jacob Henry', '4924 Michael Mission Apt. 821
+Perezville, MA 07945', '194-7471', 86113849, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000173, 'Daniel Travis', '2438 Jesus Station
+Tranfurt, IL 35116', '442-7563', 99030432, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000174, 'Angela Saunders', '23074 Kathryn Inlet
+South Tiffany, MT 41945', '723-1719', 17101320, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000175, 'Robert Hunt', '680 Fernandez Divide Suite 295
+Hughesberg, OK 63724', '992-4795', 70955731, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000176, 'Joshua Lee', '78998 Jennifer Flats Suite 502
+West Natashaland, FL 78831', '778-1173', 64407369, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000177, 'Brian Welch', '1694 Sandra Fields
+Ericchester, WY 38140', '934-7521', 65230849, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000178, 'Tammy Douglas', '19058 Simpson Plain
+South Alexander, ME 87885', '303-8927', 44663311, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000179, 'Jessica White', '994 Johnson Groves
+Johnsonburgh, WI 68069', '432-1844', 47231238, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000180, 'Dr. Eric Branch DDS', 'PSC 8706, Box 3479
+APO AA 08037', '963-9823', 57757687, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000181, 'Daniel Baird', 'PSC 2033, Box 8642
+APO AE 15424', '172-5160', 62897818, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000182, 'Rebecca Wiggins', '82998 Walker Bridge
+Claudiaville, ME 76655', '519-2298', 20092372, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000183, 'Jeremy Franklin', '710 Eric Passage Apt. 860
+Port Amberport, LA 56379', '895-4429', 39721031, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000184, 'Dawn Brewer', '4565 Melissa Crossing Apt. 568
+Lake Josephview, AK 31082', '833-2882', 89636034, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000185, 'Dr. Joseph Murray DDS', '462 Sharon Isle
+Thorntontown, MO 22512', '972-7493', 70041269, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000186, 'Adrian Nguyen', '221 Adam Junction
+Martinezmouth, NJ 97635', '972-7361', 43348844, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000187, 'Phillip Garcia', '741 Morris Fort
+New Brandifort, MO 01641', '359-8001', 64681953, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000188, 'Joseph Morales', '9814 Calhoun Harbor
+Michaelshire, LA 83014', '719-2213', 41303434, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000189, 'Denise Wilkinson', '24292 Schwartz Curve
+Kyleshire, WV 71822', '905-8513', 31879891, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000190, 'Tracy Brown', '5661 Mitchell Circles Suite 838
+Powellfort, WY 09095', '430-9520', 92333696, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000191, 'Jill Bowers', '97528 Rick Park
+Thomasland, PA 85529', '825-7847', 96538352, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000192, 'Samantha Velazquez', '0737 Meyer Glens Apt. 573
+Lake Rebecca, PA 66517', '298-6526', 48271226, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000193, 'Kirsten Mcdaniel', '5651 Hayes Stream
+Lake Jonathan, ME 01264', '616-6078', 61379740, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000194, 'Jerry Tucker', 'Unit 1289 Box 0412
+DPO AE 36244', '191-4595', 45924016, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000195, 'Megan Parker DVM', '0535 Garrett Ferry Apt. 646
+Gonzalesville, IN 15884', '386-1453', 67005906, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000196, 'Spencer Jordan Jr.', '86539 Matthew Motorway Apt. 611
+North Elizabethfurt, NE 15855', '643-7303', 69235558, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000197, 'Linda Browning', '38839 Fletcher Freeway Apt. 063
+North Mariaside, NJ 74491', '801-1610', 29563636, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000198, 'Richard Griffin', '6166 Santos Roads Suite 447
+South Dennisville, IN 24495', '501-5514', 25903591, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000199, 'Mr. Michael Pearson', '68775 Jessica Cape Suite 111
+Sierramouth, SD 24925', '613-6522', 41588403, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000200, 'Rachel Powers', 'PSC 0282, Box 9190
+APO AP 03539', '367-5905', 18711203, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000201, 'Charles Yoder', '133 Sawyer Trace
+Larsonborough, WY 41889', '749-2529', 23691165, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000202, 'Brittany Wallace', '591 Blackwell Fields
+South James, IN 94458', '235-1001', 81563372, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000203, 'Kristin Lewis', 'USS Ortiz
+FPO AP 99176', '160-6518', 92761089, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000204, 'Lindsay Allen', '77770 Ellis Lane
+Stephanieville, LA 78359', '799-9757', 21541790, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000205, 'April Barnett', '981 Cox Station Suite 686
+South Danielland, FL 03347', '896-6469', 95367753, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000206, 'Matthew Chapman', 'USNS Williams
+FPO AP 35715', '791-4273', 22412494, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000207, 'Riley Cooper', '2746 Christy Forges Apt. 892
+Raytown, AR 10587', '310-6076', 37385873, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000208, 'Dana Ramirez', 'USNS Kennedy
+FPO AA 17288', '635-3940', 74420901, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000209, 'Glenn Diaz', '97699 Kimberly Drives Apt. 455
+Adamstown, CT 64140', '137-7317', 71355372, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000210, 'Claudia Smith', '7874 Timothy Union
+North Nicholasville, CA 50406', '939-6483', 82740310, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000211, 'Amy Diaz', '855 Joan Viaduct
+Lake Lynn, TN 38196', '407-2816', 70636066, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000212, 'Ashley Taylor', '51462 James Spring Apt. 431
+South Michellestad, ME 01681', '936-2051', 36398351, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000213, 'Mary Holmes', '7502 Ashley Plain Suite 140
+Shirleyhaven, SC 32780', '804-8563', 93965243, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000214, 'Nicholas Spencer', '571 Elizabeth Falls
+Rodriguezborough, NY 62869', '195-1362', 14679073, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000215, 'Kathleen Buchanan', '88415 James Course Suite 432
+East Paigeburgh, TN 31775', '857-1385', 34352554, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000216, 'Kenneth Taylor', '471 Sanders Square Suite 370
+Lake Jason, MN 94000', '663-1197', 45544063, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000217, 'Kimberly Cox', 'PSC 2791, Box 3855
+APO AP 98652', '959-5689', 36422475, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000218, 'Edward Patrick', '695 Daniel Port Apt. 727
+South Tina, NH 40524', '222-7060', 57459786, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000219, 'Justin Gibson', '3192 Cervantes Springs Suite 745
+New Kaitlin, AZ 78455', '169-6618', 56347621, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000220, 'Thomas Page', '1502 Jennings Station Suite 409
+Shawnmouth, WA 92738', '924-4489', 69580525, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000221, 'Stephanie Wright', '2717 Daniel Path Suite 719
+Thomashaven, NM 44833', '505-2030', 47242309, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000222, 'Laura Foster', '6915 Thompson Mission
+West Kimberly, NE 02405', '253-3836', 69307021, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000223, 'Michael Stevens MD', '6375 Mendoza Unions Suite 863
+Kingmouth, SC 67923', '675-2635', 47594266, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000224, 'Jerry Joseph', '528 Hurst Ford
+Brucefort, AK 40565', '903-6578', 44199589, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000225, 'Daniel Cherry', '024 Rodriguez Harbors Suite 802
+Taylorborough, NH 33487', '863-1043', 79053574, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000226, 'Linda Johnston', '150 Ana Field
+East Theresafurt, MI 30280', '935-9419', 84415305, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000227, 'Laura Wilson', '67607 Stewart Mountains
+Robinsonberg, IN 58320', '628-8654', 58919441, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000228, 'Katelyn Skinner', '97204 Price Trafficway
+Lake Alice, OK 98677', '422-6615', 11846810, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000229, 'Bobby Benjamin', '852 Bryant Cliff
+Port Karen, KS 25640', '593-1945', 83611400, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000230, 'Maria Dorsey', 'Unit 1447 Box 6701
+DPO AE 28498', '106-2335', 29053973, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000231, 'Don Anderson', '497 Julie Crossroad
+Elijahville, NV 62045', '351-7315', 51685009, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000232, 'Jennifer Hernandez', 'PSC 6249, Box 3869
+APO AA 94083', '702-6959', 99294555, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000233, 'Jennifer Edwards', '61506 Cooke Passage
+New Robertview, NE 48032', '565-6173', 71660094, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000234, 'Wayne Costa', '105 Moore Vista Apt. 862
+New Ann, AR 29453', '331-8065', 80336399, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000235, 'Anita Burch', '45316 Jones Fields
+Davidfurt, GA 78658', '559-5872', 55260030, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000236, 'Fred Fitzpatrick', 'Unit 3122 Box 6524
+DPO AP 22971', '557-6590', 79601717, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000237, 'Grace Moreno', '59415 Adams Center
+Lake Tammyfort, NY 03912', '850-1144', 79207332, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000238, 'Aaron Carter', '4030 Diaz Land Apt. 573
+Josephtown, AR 59515', '652-4892', 76842555, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000239, 'Robert Lang', '3928 Dominic Ridge
+Lake Katherinehaven, VA 72973', '996-9257', 73479243, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000240, 'Vanessa Cortez', '471 Corey Views Suite 046
+Delacruzburgh, NM 20815', '890-1905', 42666812, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000241, 'Joseph Mckenzie', '727 Heather Lights Suite 844
+Lake Taylorton, WI 05962', '495-1648', 37464114, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000242, 'Robert Espinoza', 'USNV Roberts
+FPO AE 11820', '823-6492', 59639894, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000243, 'Amber Ellis', '9572 Clark Viaduct Apt. 703
+Monicatown, OR 24109', '292-9242', 72648679, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000244, 'Rose Dominguez', '4033 Smith Ports
+North Kimberlyside, GA 01991', '870-2734', 65869850, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000245, 'Debra Simmons', '861 Clarence Circle Apt. 746
+Dawsonstad, MS 18538', '881-3622', 10121808, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000246, 'John Jones', '1154 Conway Islands
+South Marcview, MN 16191', '203-9762', 22022348, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000247, 'Cynthia Thompson', '46055 Shaffer Square
+New Brandistad, MS 63995', '900-8520', 17081297, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000248, 'Jennifer Perez', '72797 Katherine Bypass
+Rochastad, VT 48112', '362-6379', 75840841, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000249, 'Stephanie Nelson', '1553 Anderson Forge Suite 714
+Campbellview, HI 07473', '561-8084', 19237614, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000250, 'David Barr', 'USNS Soto
+FPO AP 21073', '218-2326', 80506124, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000251, 'Eric Anthony', '59529 Martin Forks Apt. 177
+Port Rodney, GA 63452', '280-9464', 32600084, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000252, 'Danielle Ellis', '226 Powell Trail
+Mariahton, NH 12402', '143-5769', 78705076, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000253, 'Alexis Washington', '038 Peter Heights
+Michaelmouth, MD 24813', '204-6488', 19962918, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000254, 'Kyle Miller', '7010 Eric Parkway
+East Mark, VA 81462', '743-3372', 88511466, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000255, 'James Gonzales', '44100 Raymond Throughway
+Michealport, WA 85886', '807-4019', 27289112, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000256, 'Jenny Espinoza', '6994 Mitchell Roads Suite 400
+Luischester, SD 86850', '764-9420', 99866305, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000257, 'Miguel Hawkins DDS', '37027 Sarah Rest
+North Michaelland, NM 36012', '703-2490', 86858247, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000258, 'Tina Reed', 'PSC 1243, Box 9940
+APO AA 61234', '997-4119', 24343913, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000259, 'Shannon Ford', '65168 Torres Manor Suite 781
+Lake Amandaview, IL 89747', '548-8271', 23479675, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000260, 'Joanne Jones', '184 Sarah Fort Apt. 746
+Stevenchester, AL 31516', '663-5790', 49309360, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000261, 'Eugene Brown', '51363 Holland Brook
+Sharontown, HI 21953', '244-1528', 70061007, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000262, 'Brenda James', '14981 Brian Mall Apt. 116
+New Brett, NH 75974', '406-8551', 67321564, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000263, 'Justin Moore', '364 May Rapids Suite 266
+Hamiltonview, HI 12532', '604-5118', 63009800, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000264, 'Kyle Davis', 'Unit 3336 Box 5327
+DPO AA 63487', '388-3976', 94154004, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000265, 'Shawn Pruitt', '3710 Deborah Place
+Lake Baileymouth, NC 15416', '353-5720', 82458222, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000266, 'Michael Mclaughlin', '240 Charles Key
+Glassfurt, RI 64129', '505-6444', 68564417, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000267, 'Isabella Wallace', '09672 Willis Oval Apt. 372
+East Oscar, MO 84377', '319-3091', 92468228, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000268, 'Lori Howard', '12010 Stanley Alley Suite 847
+Sydneyborough, WV 11902', '541-4232', 33064080, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000269, 'Pamela Howell', '46093 Emily Circle Suite 069
+Brianport, NY 01445', '772-3645', 16486229, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000270, 'Jorge Morse', '297 Schultz Fall Apt. 861
+Hopkinstown, NH 20813', '318-1171', 59672865, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000271, 'Heather Delgado', '14679 Howe Isle Apt. 027
+West Michael, MD 47065', '800-6530', 56759969, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000272, 'Melissa Fernandez', '84380 White Causeway
+New Adam, VT 19038', '665-3688', 59964372, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000273, 'Michael Sellers', '21088 Darren Port
+Simston, IL 97386', '409-9854', 42339498, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000274, 'Tony Dawson', '48857 Travis Square Apt. 373
+Josephfort, WY 03869', '717-3620', 15935485, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000275, 'Nathan Rojas', '0685 Katie Overpass Suite 903
+Elizabethburgh, NY 27845', '141-4282', 12456450, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000276, 'Richard Vasquez', 'Unit 3416 Box 4876
+DPO AA 98650', '524-3805', 19565154, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000277, 'Lisa Moore', '8197 Brandon Fork
+South Jose, MT 41016', '541-9935', 81512215, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000278, 'Heather Thompson', '3477 Richard Trail Suite 980
+Oneillport, NE 27449', '653-1002', 66384585, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000279, 'Jennifer Thompson', '553 Johnston Bypass Apt. 898
+Fosterland, VT 51425', '783-1762', 99023184, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000280, 'Jason Myers', '76216 Craig Vista Suite 559
+East Howard, DE 78279', '783-5757', 52029029, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000281, 'Jeremy Reyes PhD', '963 Kayla Mill Suite 621
+Wilsonstad, AR 68759', '835-9625', 59884463, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000282, 'Cynthia Burgess', '704 Bell Village Apt. 335
+West Cindyville, RI 42912', '831-9762', 64968237, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000283, 'Mr. James Jacobs', 'USNS Orr
+FPO AA 44387', '916-9891', 43005003, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000284, 'Robert Hatfield', '1630 Hays Roads Apt. 891
+Catherineside, CT 45077', '488-6227', 73919950, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000285, 'Jordan Torres', '673 Justin Flats
+Lake Jennifer, VT 19981', '311-6535', 20830761, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000286, 'Crystal Owen', '0096 Webster Mountain
+West Jennaside, FL 23381', '812-2318', 54188297, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000287, 'Dawn Holland', '320 Michele Pass
+Scottmouth, NH 39077', '611-2476', 39711578, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000288, 'Aaron Hill', '621 Reynolds Ridges Apt. 725
+Lake Danielleside, WY 02315', '467-6174', 51835595, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000289, 'Mike Doyle', '91375 Bryan Curve Suite 379
+Sullivanland, NJ 27809', '232-1981', 10826769, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000290, 'Maria Mcdaniel', 'Unit 0321 Box 1494
+DPO AE 34492', '667-9606', 74663340, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000291, 'Dawn Johnson', '7847 Edwards Camp Apt. 424
+Mackmouth, WA 32539', '412-3793', 20464021, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000292, 'Chelsea Harrison', '9164 Ferguson Ford Apt. 446
+Leonstad, VA 05436', '688-3172', 75544156, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000293, 'Rebecca Johnson', '6509 Christopher Loop Apt. 032
+Calhounmouth, RI 73535', '749-3484', 60509181, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000294, 'Bryan Burgess', '00834 Jennifer Lakes
+Ryanburgh, KS 24721', '234-2170', 78952459, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000295, 'Nicole Elliott', 'PSC 9179, Box 2411
+APO AP 68094', '563-8961', 75344672, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000296, 'Jessica Simmons', '119 Jennifer Ferry Suite 993
+New Sarachester, TN 49652', '822-9164', 65592284, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000297, 'Aaron Butler', '27413 Quinn Island Apt. 554
+Herreraborough, DC 62751', '236-4891', 61006102, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000298, 'Kevin Haynes', '89642 Cynthia Land Apt. 568
+Josephstad, NJ 49948', '405-7722', 74355382, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000299, 'Christina Smith', '897 Dana Lights
+Jonathantown, AL 55387', '488-3077', 56109766, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000300, 'Kevin Zhang', '3792 Michael Plains
+New Emilyview, LA 22981', '773-7935', 10705236, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000301, 'Yvonne Allen', '919 Duke Pass
+Nelsonmouth, MS 07270', '115-7002', 17269630, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000302, 'Austin Graves', '595 Alex Vista Apt. 692
+Cooperfort, NJ 90022', '966-4656', 99673475, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000303, 'Benjamin Harrison', '539 Cooper Forges
+Rodriguezmouth, VT 29518', '714-4771', 11527649, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000304, 'Sara Gordon', '22399 Mcgee Station
+South Amyborough, NY 61917', '754-5573', 72561751, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000305, 'Nicholas Gardner', '0416 Mckay Trafficway Apt. 559
+Jonesshire, WV 28755', '728-3657', 49359443, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000306, 'Sierra Garcia', '1235 Timothy Extension
+South Richardberg, MI 37295', '555-4433', 53745151, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000307, 'Sean Bender', '50130 Stewart Loop
+Nicoleport, PA 24410', '380-1574', 76603490, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000308, 'Sheena Silva', '38982 Smith Estates Suite 399
+Alexanderhaven, OK 82519', '909-2333', 79963931, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000309, 'Margaret Vazquez', '38232 Gray Station
+Nataliebury, SD 65189', '801-1638', 42404165, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000310, 'Elizabeth Lowe', '65524 Garcia Alley Suite 555
+Elliottberg, OR 99282', '747-2860', 67980234, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000311, 'Janice Williams', '263 Ray Divide
+Kaylachester, GA 85569', '536-9437', 44434319, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000312, 'William Smith', '823 Thompson Mountain
+Jordanhaven, AL 27742', '828-4703', 27335078, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000313, 'Shelly Ford', '40587 Smith Points
+West Nathanielland, PA 61136', '414-7773', 27947758, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000314, 'Ethan Guerra', '346 Paul Courts
+Pattonberg, CA 53931', '702-5352', 90578482, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000315, 'Jose Wilson', 'USNV Farrell
+FPO AP 61746', '258-3721', 45711180, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000316, 'Megan Smith', 'PSC 5639, Box 0656
+APO AA 15494', '414-6118', 29400389, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000317, 'Jessica Cervantes', '635 Armstrong Glens
+Lake Jenny, AL 46091', '234-6097', 90397018, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000318, 'Amy Jordan', '7490 Leslie Harbor
+East Christopher, AR 10540', '676-1901', 99581153, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000319, 'Jeremiah Clark', '8601 Tanya Prairie Suite 963
+Lewisshire, MS 55109', '128-5916', 42490832, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000320, 'Mark Valdez', '55254 Joseph Springs Suite 728
+Eddiemouth, TN 17865', '537-6795', 62085954, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000321, 'Susan Green', '6702 Bruce Circle
+North Juan, OH 13867', '770-7462', 75177336, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000322, 'Joseph Lynch Jr.', '210 Reed Drive Suite 886
+Thomasberg, GA 72246', '103-8641', 77653257, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000323, 'Jacob Rubio', '03589 Moore Street
+Kristiside, ND 55910', '384-7570', 56019384, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000324, 'Erin Foster', '0231 Evans Station
+Hoodmouth, NC 35424', '727-8152', 96908764, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000325, 'Joseph Lucas', '56501 Brian Camp Apt. 975
+Lake Jackie, NJ 23039', '657-8006', 54546705, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000326, 'Peter Patterson', '425 Curtis Hill
+East Stephenchester, MA 10077', '579-2326', 79529803, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000327, 'Richard Martinez', '4145 Jenna Gateway Suite 509
+Lake Catherine, DE 43725', '346-1618', 82545802, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000328, 'Jeffrey Anderson', '78071 Owens Ranch Suite 001
+South Jerrymouth, ID 45338', '615-1101', 28416661, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000329, 'Lauren Stone', '101 Steven Expressway Suite 255
+South Melissa, WY 87091', '614-8251', 73458354, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000330, 'Charles Gilbert', '7438 Sydney Divide Apt. 933
+Walkershire, WY 99037', '388-5971', 13878914, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000331, 'Adam Nguyen', '864 Lauren Junctions
+North Taylorfurt, CO 22633', '449-7130', 78287163, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000332, 'James Moss DDS', '03786 Cantrell Common
+Port Daniel, NH 72529', '965-3543', 20941460, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000333, 'Jamie Schaefer', '68063 Kevin Isle
+Lake Joanneville, WA 00501', '663-8055', 82917776, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000334, 'Emily Bishop', '32297 King Branch Suite 812
+New Kimberlyhaven, ID 21968', '996-8057', 83429417, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000335, 'Cameron Knox', '9466 Marie Lodge Suite 902
+Jamesburgh, NV 92016', '640-9150', 23925997, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000336, 'Shawn Archer', '795 Manuel Common
+Roblesborough, MO 31927', '939-1993', 94172781, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000337, 'Theresa Williams', '180 Brianna Expressway Suite 305
+Andrewfurt, MT 42413', '574-9493', 85319717, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000338, 'Ian Hernandez', 'USNV Lewis
+FPO AE 54829', '901-9517', 80640525, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000339, 'Karen Hale', '034 Gomez Park Apt. 277
+Barrettburgh, AK 22652', '554-8294', 22244148, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000340, 'Mark Gonzalez', '005 Erickson View Apt. 807
+North Julie, TN 52307', '390-2395', 21336265, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000341, 'Christopher Tucker', '47367 Pamela Parkway
+Hunterbury, KY 21402', '412-5940', 38848873, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000342, 'Debbie Cox', '5079 Riley Underpass
+Port Ryan, NY 54454', '161-3575', 13011656, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000343, 'Richard Hull MD', '32669 Hale Trail Suite 826
+Jenniferborough, KY 33415', '956-5795', 12142228, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000344, 'Michael Thompson Jr.', '6268 Burns Valleys Suite 136
+West Phillipburgh, NE 13553', '602-8928', 59672639, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000345, 'Jacob Osborn', 'USS Kelley
+FPO AA 84218', '877-3207', 43063142, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000346, 'Rebecca Thomas', '744 Houston Pines
+West Bobby, FL 68455', '611-7651', 59395668, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000347, 'Mary Estes', 'Unit 1202 Box 1430
+DPO AP 78951', '764-8358', 10932479, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000348, 'Monica Cole MD', '837 Donna Canyon Suite 432
+Lake Jessicabury, NC 52769', '182-4381', 80174625, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000349, 'Valerie Watson', '91707 Williams Haven
+South Melissa, MT 54116', '412-1856', 11661563, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000350, 'Loretta Wilson', '39460 Washington Manors Suite 937
+East John, ID 02688', '318-4857', 88081335, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000351, 'Glenn Nelson', 'USS Alexander
+FPO AE 68386', '179-3476', 83612044, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000352, 'Crystal Jackson', '136 Cynthia Light Suite 431
+Scottview, DC 40789', '981-8390', 98952012, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000353, 'Larry Rodriguez', '1467 Steven Way Apt. 978
+Woodsfurt, OR 92533', '520-8929', 67752560, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000354, 'Elizabeth Young', '18247 Walker Villages Suite 829
+Port Victorborough, RI 99276', '230-4388', 30708385, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000355, 'Natalie Young', '61993 Rhodes Oval Apt. 088
+East Melanie, OH 78950', '866-2775', 22404809, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000356, 'Christina Perkins', 'USS Simmons
+FPO AA 59897', '733-9594', 48162891, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000357, 'Alexis Collins', '3696 Brandy Skyway
+Port Donald, DE 88172', '594-3096', 47983962, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000358, 'Stephanie Wilkerson', '8612 Lucas Ports Suite 645
+Bethmouth, NV 43656', '309-6321', 17833828, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000359, 'Sara Craig', '051 Turner Burg
+Seanshire, NM 66579', '606-1062', 97189385, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000360, 'Whitney Willis', '5300 Kiara Pike Apt. 472
+Lake Josefort, WA 85718', '359-9200', 72204108, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000361, 'Charles Morgan', '3795 Weeks Dale
+Teresachester, DE 65631', '794-2777', 22751868, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000362, 'Jodi Wilson', '53866 Rachel Well Apt. 943
+Jonathantown, MS 80839', '345-7733', 12506815, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000363, 'John Chung', '0955 Dana Lakes
+Sextonhaven, NY 70958', '826-9037', 60887289, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000364, 'Andrew Hartman', '7580 Megan Bypass
+Mariafort, TN 02404', '602-6891', 33225278, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000365, 'Dr. Janet Jenkins', '638 Renee Roads Apt. 637
+Lake Catherine, VA 45410', '853-3890', 40229793, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000366, 'Adam Bowers', '5941 Collin Crescent
+Mckeefort, NJ 20009', '807-7765', 85279887, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000367, 'Laura Duarte', '259 Armstrong Alley Apt. 932
+New Brianport, IL 83598', '745-4269', 10143370, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000368, 'Veronica Wolf', '5340 Hess Pine Apt. 233
+Conleyburgh, SD 85303', '887-6791', 82101841, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000369, 'Erik Rodriguez', '177 Anderson Glens
+Port Johnside, MD 47385', '551-3078', 65715920, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000370, 'Susan Burton', '8604 Hendricks Mills
+North Lori, VT 40481', '744-9851', 26688281, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000371, 'Daniel Wright', '176 Kelly Bypass Apt. 338
+Stevenstad, GA 57729', '354-4682', 22741835, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000372, 'Sara Obrien', '32291 Parker Islands
+Haleville, UT 56079', '263-5477', 86753617, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000373, 'Vanessa Reyes', '28593 Steven Forks
+Melissamouth, FL 46961', '719-8912', 70020947, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000374, 'Brittney Lynch', '62472 Thomas Inlet
+New Courtney, WA 12870', '544-6266', 15106017, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000375, 'Charles Castro', '31427 Andrew Centers
+North Amanda, PA 29371', '410-7534', 71709350, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000376, 'Kyle Graham', 'Unit 5966 Box 0954
+DPO AP 11177', '253-4791', 67614416, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000377, 'George Morgan', '7504 Robert Glen
+Wangport, CT 80777', '117-5471', 50361532, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000378, 'Thomas Roberts', '678 David Station
+North Raymondtown, SD 37444', '201-2178', 34059994, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000379, 'Elizabeth Mcdonald', '039 Michelle Corner Suite 864
+Garyhaven, MD 57976', '230-8665', 88933399, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000380, 'Tiffany White', 'PSC 2988, Box 4644
+APO AA 40864', '868-4934', 31122358, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000381, 'Kelsey Jones', '16350 Brittany Cliffs Suite 784
+South Laura, CA 30562', '194-2920', 62071908, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000382, 'Melissa Montoya', '248 Barnes Ford
+North Debrafort, MN 87276', '378-4518', 60346587, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000383, 'Andrea Maxwell', '0576 Watson Corners
+Jonesshire, NC 91379', '720-3626', 56012490, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000384, 'Charles Powers', '662 Lisa Way
+Lake Heather, SD 91119', '839-4454', 27818577, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000385, 'Michelle Miller', '53191 Nguyen Trafficway
+Parsonsstad, VT 57350', '764-4934', 33386532, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000386, 'Stephen Hill', '902 Kristin Extensions Apt. 462
+Port Andrewland, WA 62142', '396-1241', 94170719, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000387, 'Kimberly Patterson', '75681 Kathleen Heights Apt. 140
+Wrighttown, FL 77305', '674-3944', 41535947, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000388, 'Erin Watson', 'Unit 5865 Box 9172
+DPO AA 76112', '364-5766', 28940816, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000389, 'Amy Mullins', '0614 Miranda Streets
+Knoxfurt, ID 69069', '208-1776', 87095479, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000390, 'Jeffrey Walker', 'PSC 7613, Box 8891
+APO AP 78788', '450-3741', 44006874, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000391, 'Anna Allen', '697 Betty Rapids
+Matthewview, AZ 58272', '302-2295', 44730552, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000392, 'Justin Jackson', '5592 Kara Circles
+West Kellyfurt, LA 79932', '796-7030', 33731313, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000393, 'Steven Wheeler', '6547 Jones Shores Apt. 245
+Dianafort, HI 60577', '114-2795', 34988250, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000394, 'Joshua Jenkins', 'PSC 9760, Box 8105
+APO AP 51798', '517-5879', 11802233, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000395, 'Samantha Mccarty', '9812 Morrow Meadow
+North Austin, MO 73170', '774-1911', 15496401, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000396, 'Katelyn Nguyen', '427 Tracy Groves Apt. 923
+Rubiomouth, WY 98958', '166-6720', 84751671, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000397, 'Melissa Aguilar', '32185 Braun Station Apt. 193
+Lake Jackborough, AZ 03408', '342-8258', 66251810, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000398, 'Brent Wilson', '515 Kelsey Expressway Suite 941
+Henrybury, IL 88307', '109-1901', 74060234, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000399, 'Madeline Murphy', '1438 Kristopher Ports Apt. 519
+Robertton, HI 55511', '568-8985', 23340795, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000400, 'Bryce Smith', '460 Brianna Hill Suite 217
+Davisfort, CO 27884', '386-2088', 23523323, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000401, 'Aaron Bradshaw', '292 Jennifer Branch
+Taylorfort, WY 61595', '741-1115', 60761303, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000402, 'Robert Allison', '1129 Derek Lane
+North Robertview, PA 48773', '567-6746', 97938951, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000403, 'Joy Tate', '109 Mason Groves Apt. 327
+Shellytown, AL 64325', '587-6643', 99356591, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000404, 'Kendra Moore', '4967 Joshua Brook Suite 466
+New Zoebury, VA 36446', '223-2519', 65532434, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000405, 'Sarah Yoder', '9917 Kelly Point
+Lake Cindy, NM 73284', '884-6331', 31954098, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000406, 'Julie Davidson', '810 Rodriguez Mount Suite 597
+East Stephanieville, SC 15105', '840-5697', 43548954, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000407, 'Louis Fernandez', '28012 Shaw Glen Apt. 075
+East Jesusfort, VT 13632', '517-9863', 42323225, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000408, 'Amanda Hernandez', '416 Sharp Centers Apt. 017
+Lake Brian, NH 39841', '518-4101', 70873443, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000409, 'Toni Leon', '5890 Clark Loaf
+New Rebeccaport, IA 41734', '877-4420', 73787537, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000410, 'Brittany Chapman', '124 Henson Valley Suite 131
+Port Brandonfort, NC 29172', '341-3817', 84229291, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000411, 'Rachel Wallace', '9795 Holly Mall Apt. 061
+Stefanieview, VA 73286', '582-4976', 41212220, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000412, 'Matthew Mccall', '8221 Amanda Place
+Townsendstad, FL 54053', '507-9882', 84582713, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000413, 'Michael Price', '32627 Butler Glen
+Flynnbury, SD 78042', '458-5616', 59238083, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000414, 'Benjamin Murphy', '64391 Padilla Isle
+Kathleenland, IN 67895', '675-4092', 80167716, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000415, 'Mrs. Julia Cox', '972 Dunn Trace Apt. 731
+Danielbury, WY 92481', '664-8251', 19462613, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000416, 'Kevin Spencer', '695 Patricia Port
+Tracyport, NE 62836', '498-7689', 58083251, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000417, 'Tracy Hall', '491 Jonathan Hill
+Edwardston, AK 83066', '307-7703', 20238214, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000418, 'Denise Garcia', '1252 Ronald Parkways Suite 096
+Port Kari, RI 83083', '320-6514', 18474841, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000419, 'Miranda Lopez', '976 Rush Plaza
+Lake Meganhaven, NH 39546', '774-5489', 92492131, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000420, 'Richard Miller', 'PSC 8357, Box 1293
+APO AE 20396', '991-1052', 91447748, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000421, 'Michael Reese', '4003 Donna Groves
+Amandaside, VA 01033', '472-7161', 26350260, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000422, 'Terry Juarez', '854 Angela Alley Suite 630
+West Emily, WA 11626', '445-2723', 18429926, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000423, 'Sabrina Fleming', '35545 Jessica Club Apt. 289
+Port Nancy, VA 50627', '931-3738', 60666596, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000424, 'David Molina', '14079 Miller Fords Suite 073
+Melissachester, MD 22814', '564-5081', 86225552, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000425, 'William Solomon', 'PSC 0478, Box 2019
+APO AP 84706', '364-6820', 10279072, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000426, 'Sarah Galloway', '325 Jasmine Skyway Suite 750
+Cantumouth, FL 06130', '270-5421', 17914417, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000427, 'Patricia Clark', '8994 Greene Walks
+Pittmanland, GA 07477', '661-4328', 74215772, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000428, 'Benjamin Shepherd', '040 Sabrina Ranch Suite 269
+Gutierrezport, CT 38557', '154-4969', 46233944, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000429, 'Erik Mays', '92906 Saunders Junctions
+Muellerville, AR 23304', '917-3998', 22399867, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000430, 'Scott Schwartz', 'Unit 4108 Box 0406
+DPO AE 23530', '763-5018', 33162453, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000431, 'James Lopez', 'PSC 4216, Box 2646
+APO AE 72105', '736-1056', 71003939, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000432, 'Sherry Sherman', '1882 Kristin Orchard
+South Colin, IA 47372', '797-1008', 91361297, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000433, 'Michael Caldwell', '47701 Pamela Pass
+Timothyborough, NY 35208', '165-7980', 41720453, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000434, 'Juan Sims', '2289 Brown Trafficway
+South Anne, AZ 36332', '523-2258', 58221469, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000435, 'Brenda Cooper', '0309 Brown Rue Suite 016
+Atkinsburgh, DC 26999', '922-5346', 65247793, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000436, 'Robert Durham', '6365 Carolyn Turnpike
+Port Brianshire, LA 50946', '325-5019', 17461994, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000437, 'Robin Gallagher', '74900 Hudson Common Apt. 117
+Samanthaton, AR 79507', '625-1949', 15264675, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000438, 'Leah Romero', '721 Hoffman Radial
+Lake Edwin, NC 98100', '893-8154', 75552876, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000439, 'Christine Adams', '7659 Carlos Plains
+Jonesstad, DE 69957', '798-3972', 93458696, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000440, 'Sharon Barr', 'Unit 4566 Box 6157
+DPO AP 41505', '689-1165', 26308082, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000441, 'Jessica Barry', '83225 Joe Glen Suite 290
+North Nancystad, CT 87568', '642-7122', 16243177, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000442, 'Jesse Joseph', '7146 Doyle Port Suite 540
+East Adam, TX 64889', '141-4569', 36985085, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000443, 'Richard Woods', '11939 Guzman Street
+North Lori, KS 43705', '374-6387', 47370205, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000444, 'Mrs. Courtney Benton MD', 'USNV Hardy
+FPO AE 21413', '508-6978', 88225380, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000445, 'Brittney Gonzalez', '43911 Williams Squares Apt. 544
+East Michaelburgh, TX 94172', '111-6429', 84986060, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000446, 'Stephen Stewart', '71537 Frances Trail
+North Christinetown, NM 26415', '971-2993', 59183091, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000447, 'Matthew Edwards', '7861 Thomas Isle Apt. 271
+North Brian, PA 28930', '610-2441', 66119449, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000448, 'Mike Ramos', '770 Holmes Neck Apt. 924
+Lake Amanda, ND 29525', '166-1212', 97801369, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000449, 'Dawn Hamilton', '6464 Schaefer Garden
+Mcmahonhaven, NE 16364', '445-6211', 53995061, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000450, 'Karen Rogers', '4186 Kyle Ways
+Jonesside, RI 59814', '694-8943', 24730134, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000451, 'Felicia Arnold', '22066 Brian Pine
+Pollardmouth, UT 74857', '759-3022', 54058882, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000452, 'Tiffany Adams', '468 Lee Parkways
+West Brianmouth, MS 62845', '279-3885', 61913351, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000453, 'Stephen Miller', '532 Richmond Gateway
+North Daniel, IA 70810', '950-5134', 48171296, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000454, 'Kyle Johnson', '07529 Tracy Grove Suite 944
+Lopezton, ND 26529', '790-5556', 35543715, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000455, 'Leslie Lewis', '4437 Steven Cape Suite 543
+Tannerfort, AK 37391', '819-7629', 32586517, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000456, 'Jonathan Rush', '766 David Alley Suite 688
+New Jillside, NV 56508', '851-9889', 86671856, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000457, 'Melissa Hayes', '53262 Flores Knoll
+North Nicholas, GA 23371', '191-5187', 97922051, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000458, 'Shelley Jacobs', '5035 Corey Islands
+Pottermouth, IA 53455', '914-7104', 70025439, 12);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000459, 'Ashley Sanders', '20051 Joseph Crest
+North Marytown, NM 37604', '783-2243', 11117411, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000460, 'Roberto Alvarez', '0882 Morse Locks Suite 833
+West Justinfurt, OH 25651', '581-9447', 36324785, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000461, 'Katie Boyd', '20474 Megan Lodge
+North Mollyborough, MD 35290', '660-1226', 80527680, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000462, 'Joseph Mcfarland', '151 Evans Points Apt. 438
+Lake Denise, KY 62461', '888-9270', 53340446, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000463, 'Amanda Watson', '2224 Harris Grove
+East John, FL 77891', '129-4347', 63772395, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000464, 'Michael Randall', '353 William Crescent
+Millerchester, IN 58258', '639-9848', 75108946, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000465, 'Karen Alexander', '01120 Brian Cliff Suite 114
+Solomonshire, OK 61268', '123-3861', 74354992, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000466, 'Julie Lynch', '35016 Love Freeway
+Lake Jamesstad, OR 85707', '907-5619', 49270187, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000467, 'Angela Johnston', '9700 Lisa Field
+Port Jessicachester, SD 58201', '638-1724', 23822344, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000468, 'Carolyn Smith', '66590 Kelly Isle Suite 276
+Kristenport, AK 30957', '546-7976', 14069373, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000469, 'Kyle Hayden', '937 Russell Expressway
+East Ericborough, OK 86586', '659-8720', 92588424, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000470, 'Paul Bryan', 'USS Padilla
+FPO AE 56251', '240-7653', 88702471, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000471, 'Amy Pacheco', '91375 Alexander Fall Apt. 290
+North Anaport, MN 72379', '799-7738', 83108959, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000472, 'Stephanie Frank', 'USNS Morgan
+FPO AP 13178', '869-2053', 72846541, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000473, 'Michael Knight', '075 Boyle Divide Suite 399
+Savageview, KY 53077', '794-6005', 25029186, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000474, 'Michael Garcia', '396 Diane Village Apt. 335
+Lake Nicholasbury, IL 41102', '781-2098', 41886680, 8);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000475, 'Sheila Torres', 'Unit 1678 Box 3003
+DPO AE 60407', '995-4232', 11929936, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000476, 'Megan Brown', '382 Paul Hollow
+Michaelshire, AL 47067', '930-5938', 13340729, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000477, 'Angela Parker', '3574 Tapia Roads Apt. 325
+Johnhaven, NY 50219', '238-8801', 63025096, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000478, 'Morgan Hayes', '43125 Dalton Lakes
+Beckerton, NM 30150', '828-7590', 46258076, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000479, 'Sean Giles', 'PSC 2564, Box 4952
+APO AA 73753', '375-8483', 52901225, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000480, 'Alejandro Ward', 'Unit 8452 Box 2936
+DPO AA 79807', '860-3210', 37646905, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000481, 'Steven Williams', '514 Robinson Lodge Apt. 772
+East Gloria, MA 36949', '562-6038', 43175695, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000482, 'Steven Fitzgerald', '189 Olivia Vista
+Gregorychester, IL 06626', '214-2742', 44858503, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000483, 'Scott Anderson', '593 Ramirez Lodge Apt. 919
+West Sandra, DE 18069', '387-7970', 17295466, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000484, 'Jonathan Chase', 'Unit 6074 Box 5323
+DPO AE 74464', '783-1503', 56817522, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000485, 'Anthony Richards', '6148 Donald Springs
+North Christinafurt, KY 42927', '787-2936', 87948895, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000486, 'Christian Murray', '704 Robbins Park
+Dustinport, RI 19560', '787-3520', 33412744, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000487, 'Kristy Quinn', '0044 Richard Mission Apt. 136
+North Sharon, VT 86983', '284-9720', 48278665, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000488, 'Amy Horn', '3379 Joseph Port
+East Brandon, GA 45696', '272-1687', 36524349, 3);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000489, 'Aaron Garcia', '9827 Martin Ridges Apt. 787
+Lake Andrewton, FL 41323', '566-3210', 25981137, 9);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000490, 'Brian Roberts', '94077 May Mission
+South Alexmouth, MO 49264', '563-4234', 81226202, 7);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000491, 'Adam Tate', '2738 James Roads
+Patricialand, VT 94387', '308-1748', 78579371, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000492, 'Donald Carrillo', '139 Lori Expressway Suite 305
+Jonathanville, MN 68318', '379-4739', 15231407, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000493, 'Jason Byrd', '53119 Brooks Plains Apt. 988
+New Michael, OH 76686', '665-2510', 82844937, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000494, 'Brandon Wagner', '546 Rita Station
+Gillespiemouth, MS 65000', '265-2668', 69278697, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000495, 'Timothy Brown', 'USNV Diaz
+FPO AP 65294', '487-2316', 76972429, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000496, 'Gabriella Burnett', '33770 Price Spurs
+West Derekchester, NY 60390', '324-7053', 48180334, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000497, 'David Roberts', '1868 Laura Summit Suite 807
+Hernandezville, NV 43969', '524-7673', 74031976, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000498, 'Vanessa Hartman', '81877 Smith Islands Suite 387
+New Laurenfort, MI 85672', '365-7942', 27824074, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000499, 'Brian Foster', '89611 Mccarthy Track Apt. 060
+Fernandezfort, MS 05149', '890-2323', 34981648, 4);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000500, 'Gary Walker', '85987 Sarah Forks Apt. 594
+Millerside, AZ 53278', '779-3539', 59275338, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000501, 'Zachary Edwards', '7285 Curtis Junctions Apt. 149
+Kimberlystad, RI 64240', '231-7848', 92241249, 5);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000502, 'Zachary Webster', '6610 Hurley Summit
+Hawkinsstad, UT 43533', '562-2511', 53508095, 2);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000503, 'Leroy Marshall', '2595 Nichols Village
+Ponceton, IA 28822', '803-8188', 40645816, 13);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000504, 'Zachary Johnson', '0797 Kennedy Ways Apt. 946
+East Meaganburgh, PA 73646', '827-4959', 75308010, 11);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000505, 'Kathy Munoz', '220 Kimberly Village Suite 395
+West Kristinetown, WA 81127', '806-5777', 20411871, 1);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000506, 'Stephanie Hatfield', '586 Houston Groves
+Flowerschester, IA 16656', '295-4560', 44500367, 10);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000507, 'Holly Skinner', '884 Cook Drives Apt. 549
+North Keith, NJ 28345', '558-8541', 52372850, 6);
+INSERT INTO patients (SSN, patient_name, address, phone, insurance_id, primary_care_provider) VALUES(500000508, 'Frances Vazquez', 'USCGC Montgomery
+FPO AA 41049', '766-3654', 48411145, 3);

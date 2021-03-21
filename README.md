@@ -1,196 +1,290 @@
-# MGT858_sql_assignment
-SQL assignment for MGT 858 Database Systems
 
-For this assignment we'll be using a special 'hospital' database, which contains data describing doctors, patients,
-nurses, staffing schedules, procedures, prescriptions, and more! You will see that this hospital has a world class
-staff :)
+For this assignment we'll be using a special 'hospital' database 👨‍⚕️👩‍⚕️💉, which contains data describing doctors, patients, nurses, staffing schedules, procedures, prescriptions, and more! 
 
-Before jumping into the questions, it would be helpful to review the database schema and each table!
+You will see that this hospital has a world class staff :)
+
+Before jumping into the questions, it would be helpful to review the database schema and corresponding tables. We'll leave it to you and your newfound skills on how to do this.
+
+Let's dive into this data.
+
+To get started, let's figure out who are top-money making doctors are. 🤑🤑🤑
+
+Write a query that shows doctors who performed a procedure and the total revenue they received in the dataset (e.g., your query will calculate the sum of revenues for each procedures by doctor).
 
 
-Write a SQL statement showing a list of physician names, the total number of procedures
-each Physician is certified to perform, and the total number of procedures each Physician performed.
-Only show physicians who have been trained in a procedure or performed a procedure.
+Your result should look like:
+
+        physician               | revenue 
+        ------------------------+-----------
+        John Wen                | 48524                 
+        Christopher Turk        | 27200         
+        Bruce Banner            | 24025       
+        Stephen Strange         | 7525
+        Kyle Percival Jensen    | 5025          
+        Todd Quinlan            | 4899        
+        (6 rows)
+
+
+
+CHA-ching 🤑🤑, I love seeing our physicians bringing in money to the hospital. I'm now curious when these revenues were actually generated. Are we earning revenue consistently every week?
+
+Write a SQL query that shows the revenue earned for each week that a procedure was performed and the cumulative revenue earned up to that point (e.g., your table should show the week [if a procedure was performed], the revenues earned in that week, and the total revenues earned up to that week)
+
+
+Your result should look like:
+
+        week  | weekly_revenue | running_total_revenue
+        ------+----------------+---------------------
+        01    | 5625           | 5625
+        03    | 1500           | 7125
+        05    | 3750           | 10875
+        06    | 5600           | 16475
+        07    | 1000           | 17475
+        09    | 13100          | 30575
+        10    | 25             | 30600
+        11    | 4500           | 35100
+        13    | 26025          | 61125
+        14    | 4899           | 66024
+        18    | 1025           | 67049
+        20    | 5000           | 72049
+        22    | 15000          | 87049
+        23    | 15500          | 102549
+        24    | 3750           | 106299
+        29    | 6000           | 112299
+        31    | 4899           | 117198
+        (17 rows)
+
+
+
+The hospital management is really surprised how much revenues fluctuate from week to week (and that some weeks we don't perform procedures at all!!). 
+
+For the data we do have, calculate the rolling average weekly revenue of the current week and past 3 weeks where there was revenue.
+
+Your rolling average weekly revenue should be shown to two decimal places.
+
+
+Your result should look like:
+
+        week  | weekly_revenue | rolling_avg_revenue
+        ------+----------------+---------------------
+        01    | 5625           | 5625.00
+        03    | 1500           | 3562.50
+        05    | 3750           | 3625.00
+        06    | 5600           | 4118.75
+        07    | 1000           | 2962.50
+        09    | 13100          | 5862.50
+        10    | 25             | 4931.25
+        11    | 4500           | 4656.25
+        13    | 26025          | 10912.50
+        14    | 4899           | 8862.25
+        18    | 1025           | 9112.25
+        20    | 5000           | 9237.25
+        22    | 15000          | 6481.00
+        23    | 15500          | 9131.25
+        24    | 3750           | 9812.50
+        29    | 6000           | 10062.50
+        31    | 4899           | 7537.25
+        (17 rows)
+
+
+
+Let's take a closer look at our physicians trained to do procedures. 
+
+Write a SQL statement showing a list of physician names, the total number of procedures each physician is certified to perform, and the total number of procedures each physician has performed.
+
+Only show physicians who have been trained in a procedure or who have performed a procedure.
+
+Order your query by the number of procedures a physician has performed, descending.
+
 Please write your SQL script using a CTE.
 
-Your result should look like this
 
-      ```
-        physicians              | num_trained_procedures | performed_procedures
-        ------------------------+------------------------+------------
-        Christopher Turk        | 5                      | 3
-        John Wen                | 7                      | 2
-        Kyle Percival Jensen    | 1                      | 2
+Your result should look like:
+
+        physician               | num_trained_procedures | num_performed_procedures
+        ------------------------+------------------------+-------------------------
+        John Wen                | 6                      | 9
+        Bruce Banner            | 1                      | 6
+        Christopher Turk        | 5                      | 5
+        Kyle Percival Jensen    | 4                      | 3
+        Stephen Strange         | 2                      | 2
         Todd Quinlan            | 3                      | 1
-      ```
-        (4 rows)
+        (6 rows)
 
 
 
+Hmm...I know we are just looking at counts of procedures performed, but something seems off. Let's dig deeper.
 
-What is the total number of hours each nurse spent on call across call shifts?
-How many shifts did each nurse work?
+Have any doctors performed a procedure that they were certified to perform, but the actual procedure was done after the doctor's certification in that procedure expired?
 
-Your final output should display the nurse's name, total number of hours worked, and total number of call shifts worked,
-which looks like...
+Write a SQL query to find out.
 
-      ```
-        Name              | tot_call_hours | num_shifts
-        ------------------+----------------+------------
-        Carla Espinosa    | 14             | 2
-        Laverne Roberts   | 7              | 1
-        Paul Flowers      | 24             | 3
-      ```
+Your table should show the physician's name, the name of the procedure, the date the procedure was performed, the patient who received the procedure, and the date the doctor's certification for that procedure expired.
+
+Please format the procedure date and certification expiration date in the format 'MM/DD/YYYY'.
+
+Order your results by the certification expiration date, ascending.
+
+*Hint: Be careful with the daterange range type in PostgreSQL. You may find the following documentation helpful: 
+- https://www.postgresql.org/docs/9.3/rangetypes.html
+- https://www.postgresql.org/docs/13/functions-formatting.html
+
+
+Your result should look like:
+
+        physician_name          | procedure                  | procedure_date  | patient_name   | cert_expiration_date
+        ------------------------+----------------------------+-----------------+----------------+---------------------
+        Kyle Percival Jensen    | Partial SQLelectomy        | 05/15/2020      | Darius Oliver  | 01/01/2017
+        John Wen                | Obfuscated Dermogastrotomy | 08/01/2020      | Amber Wright   | 01/01/2018
+        Christopher Turk        | Reverse Rhinopodoplasty    | 03/02/2020      | Dennis Doe     | 01/01/2019
         (3 rows)
 
 
 
+Welp...that is concerning. Looks like we need to have a chat with a few doctors about their procedure licensing requirements. 
 
-What is the average amount of days that patients stayed in the hospital?
+Given this, let's find out if any doctors have performed procedures that they are not certified to perform at all...
 
-Your result should look like
+Write a query that shows the doctor, procedure, date of procedure, and name of the patient for any instances where a doctor 
+performed a procedure for which they're not trained to perform.
 
-```
-    avg_days
-    --------
-    76.2
-```
-    (1 row)
+Again, please format the procedure date in the format 'MM/DD/YYYY'. Order your results by most recent procedure date 
+to oldest procedure date.
 
 
+Your result should look like:
 
-
-WHOA! That's a pretty long average time to stay in the hospital!!! What is going on here?
-
-Let's look at the total number of days each patient stayed in the hospital. Order your query by
-the total days patients stayed in the hospital. Who stayed in the hospital the longest?
-
-Your result should look like
-
-      ```
-        Name                | tot_days
-        --------------------+----------------
-        Kim K. West         | 365
-        Random J. Patient   | 11
-        Dennis Doe          | 1
-        Dougie Dougerson    | 1
-        John Smith          | 3
-      ```
-        (5 rows)
+        physician            | procedure              | procedure_date | patient
+        ---------------------+------------------------+----------------+--------------
+        Stephen Strange      | Magic-ectomy           | 07/15/2020     | Wanda Maximoff
+        Bruce Banner         | Appendectomy           | 04/30/2020     | Steven Lopez
+        Bruce Banner         | Magic-ectomy           | 03/30/2020     | Megan Castro
+        Bruce Banner         | Complete SQLelectomy   | 03/29/2020     | Megan Moore
+        Bruce Banner         | Follicular Demiectomy  | 03/25/2020     | William Spencer
+        Kyle Percival Jensen | Follicular Demiectomy  | 03/09/2020     | Lisa Powell
+        Bruce Banner         | Magic-ectomy           | 02/28/2020     | Melinda Smith
+        Bruce Banner         | Reverse Appendectomy   | 02/13/2020     | Mary Graham
+        Stephen Strange      | Reverse Rhinopodoplasty| 01/16/2020     | Stephen Anderson
+        Stephen Strange      | Follicular Demiectomy  | 01/02/2020     | Lisa Lee
+        (10 rows)
 
 
 
+Looks like we might need to fire 3 of our physicians (and Dr. Banner is one of our top three revenue generators 😭😭😭!!))
 
-What is the hospital room utilization for each Block Code?
-Express your solution in decimals. Order by percent unavailable descending
+Now, let's take a look at some patient data. 
 
-Your result should be...
+What is the minimum, average, and max amount of time (in days) that patients have stayed in the hospital 
+(for those patients that did stay in the hospital)?
 
-      ```
-        block_code  | percent_utilized
-        ------------+-----------------
-        1           | 0.25
-        3           | 0.167
-        2           | 0.167
-      ```
-        (3 rows)
+Express your calculages to one decimal place.
 
+*Hint: Be careful about calculating the difference between two dates in postgreSQL. You might find the date_part function useful here. 
+Don't forget to convert your difference in days to a numeric value!! 
+- https://www.postgresql.org/docs/8.1/functions-datetime.html
+- https://www.postgresql.org/docs/8.1/functions-math.html
 
 
+Your result should look like:
 
-Have any doctors performed a procedure for which they're not trained?
-Write a query that shows the doctor, procedure, date of procedure, and name of the patient
-for any instances where a doctor performed a procedure for which they're not trained.
+        min_days  | avg_days   | max_days
+        ----------+------------+----------
+        1.0       | 4.8        | 97.0
+        (1 row)
 
-Your result:
+ 
 
-      ```
-        physician               | procedure             | date       | patient
-        ------------------------+-----------------------+------------+-----------
-        Christopher Turk        | Complete Walletectomy | 2008-05-10 | Dennis Doe
-        Kyle Percival Jensen    | Heart Transplant      | 2020-03-13 | Kim K. West
-        Kyle Percival Jensen    | Cardioversion         | 2021-03-31 | Dougie Dougerson
-      ```
-        (3 rows)
+This is really interesting...it looks like we have some patients who are outliers and stay in the hospital much longer than others.
 
+Now that we know the min, average, and max, let's make a histogram of the number of days the patients spend in the hospital so we can 
+get a better look at this distribution.
 
+For this histogram, let's use the awesome WIDTH_BUCKET function in PostgreSQL to create bins. Use the values you just calculated in the 
+previous query to help solve this. Let's see some granularity and add in 20 bins into the WIDTH_BUCKET parameter.
 
-
-What is the average dose of medication prescribed to a patient
-who hasn't had an appointment by doctor? Show the name of the doctor,
-the average dose they have prescribed to all of their patients without appointments,
-as well as the rank of average dose of medication prescribed descending (e.g.,
-the doctor with the highest average dose should show up first)
-
-Your table should look like
-
-  ```
-        physician_name              | average_dose  | dose_rank
-        ----------------------------+---------------+------------
-        Kyle Percival Jensen        | 125           | 1
-        Gregory House               | 20            | 2
-        Nauman Alabaster Charania   | 17.5          | 3
-        Molly Clock                 | 5             | 4
-  ```
-        (4 rows)
+*Hint: Here, because our range of hospital stay length ranges from 1 through 97, you might not actually end up with 20 bins. It would also be helpful to review the CONCAT function (or other ways to concatenate information) to achieve the above result. While you could use the other options to create histograms in PostgreSQL (e.g., calculate values using the FLOOR function) let's stick to using the WIDTH_BUCKET function.
+- https://www.postgresql.org/docs/9.1/functions-math.html
 
 
+Your result should look like:
 
-
-Write a query that shows doctors who performed a procedure and the total revenue they received each year
-(e.g., your query will calculate the sum of revenues from procedures by doctor and year).
-
-Your table should look like
-
-  ```
-        physician_name          | year  | revenue
-        ------------------------+-------+------------
-        Christopher Turk        | 2008  | 10000
-        Kyle Percival Jensen    | 2020  | 10000
-        Christopher Turk        | 2008  | 5600
-        Todd Quinlan            | 2008  | 4899
-        John Wen                | 2008  | 3750
-        Kyle Percival Jensen    | 2021  | 3500
-        Christopher Turk        | 2008  | 1500
-        John Wen                | 2008  | 25
-```
-        (8 rows)
+        bin_name        | num_patients
+        ----------------+---------------
+        1 to 4 days     | 824
+        5 to 9 days     | 36
+        10 to 14 days   | 2
+        15 to 19 days   | 1
+        20 to 24 days   | 2
+        29 to 33 days   | 2
+        34 to 38 days   | 1
+        39 to 43 days   | 2
+        49 to 52 days   | 1
+        53 to 57 days   | 2
+        63 to 67 days   | 1
+        68 to 72 days   | 1
+        77 to 81 days   | 4
+        87 to 91 days   | 2
+        97 to 100 days  | 1
+        (15 rows)
 
 
 
+Have patients ever met with doctors who are not their primary care providers (PCP)? 
 
-This seems to be a pretty alarming hospital...
-
-I am concerned...have any doctors performed a procedure they were certified to perform, but that
-the actual procedure was done after the doctor's certification in that procedure expired?
-
-Your table should show the doctor's name, the name of the proedure, the date the procedure was performed,
-the patient who received the procedure, and the date the doctor's certification for that procedure expired, like this:
-
-     ```
-        physician_name          | procedure                  | procedure_date  | patient_name | cert_expiration_date
-        ------------------------+----------------------------+-----------------+--------------+---------------------
-        Todd Quinlan            | Obfuscated Dermogastrotomy | 2008-05-10 | Dennis Doe   | 2007-12-31
-        Kyle Percival Jensen    | Heart Transplant           | 2020-03-13 | Kim K. West  | 2008-12-31
-      ```
-        (2 rows)
-
-
-
-
-Have patients ever met with doctors who are not their primary care providers (PCP)? Show a list of instances where
+Show a list of instances where
 this has happened. Your table should include the patient's name, the physician they met with (not their PCP),
 their actual PCP, and the day of the week of their appointment (hint, a CASE statement might be useful here).
 Do patients meet with doctors other than PCP more during the week or more during the weekend?
 
-Your table should look like...
+Your result should look like...
 
-     ```
-        patient_name  | physician_name       | primary_care_physician_name| day_of_week
-        --------------+----------------------+----------------------------+---------------------
-        Yeezy         | Kyle Percival Jensen | Nauman Alabaster Charania  | Sunday
-        Dennis Doe    | Percival Cox         | Christopher Turk           | Friday
-      ```
-        (5 rows)
+        patient_name    | physician_name            | primary_care_physician_name | day_of_week
+        ----------------+---------------------------+-----------------------------+---------------------
+        Alejandro Evans | John Wen                  | Bob Kelso                   | Saturday
+        Kanye West      | Nauman Ferdinand Charania | Kyle Percival Jensen        | Saturday
+        (2 rows)
 
 
+
+With some patients staying in the hospital for almost 100 days, I'd be really curious to see what our room utilization has
+looked like over the data.
+
+Write a SQL query to calculate the average room utilization for each month in the dataset (data is from January 2020 to August 2020).
+
+Show room utilization to two decimal places (e.g., if room utilization is 26.27%, have the table show "26.27")
+
+
+Your result should look like:
+
+        month | room_utilization      
+        ------+-----------------
+        1     | 26.29
+        2     | 30.52 
+        3     | 35.43
+        4     | 33.22
+        5     | 30.05
+        6     | 33.67
+        7     | 29.46
+        8     | 45.00
+        (8 rows)
+
+
+
+Using the above utilization table, let's now show a table that shows the percent change in utilization from month to month. 
+
+Write a SQL query to calculate the month over month percent change from the previous table.
+
+
+Your result should look like:
+
+        month | room_utilization  | percent_change 
+        ------+-------------------+-----------------
+        1     | 26.29             | null
+        2     | 30.52             | 16.09
+        3     | 35.43             | 16.09
+        4     | 33.22             | -6.24
+        5     | 30.05             | -9.54
+        6     | 33.67             | 12.05
+        7     | 29.46             | -12.50
+        8     | 45.00             | 52.75
+        (8 rows)
