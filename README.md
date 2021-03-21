@@ -26,7 +26,7 @@ Your result should look like:
 
 
 
-CHA-ching 🤑🤑, I love seeing our physicians bringing in money to the hospital. I'm now curious when these revenues were actually generated. Are we earning revenue consistently every week?
+CHA-ching 🤑🤑, I love seeing our physicians bringing in money to the hospital. I'm now curious to see when these revenues were actually earned. Are we earning revenue consistently every week?
 
 Write a SQL query that shows the revenue earned for each week that a procedure was performed and the cumulative revenue earned up to that point (e.g., your table should show the week [if a procedure was performed], the revenues earned in that week, and the total revenues earned up to that week)
 
@@ -233,7 +233,7 @@ Have patients ever met with doctors who are not their primary care providers (PC
 
 Show a list of instances where
 this has happened. Your table should include the patient's name, the physician they met with (not their PCP),
-their actual PCP, and the day of the week of their appointment (hint, a CASE statement might be useful here).
+their actual PCP, and the day of the week of their appointment.
 Do patients meet with doctors other than PCP more during the week or more during the weekend?
 
 Your result should look like...
