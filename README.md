@@ -1,5 +1,5 @@
 
-For this assignment we'll be using a special 'hospital' database 👨‍⚕️👩‍⚕️💉, which contains data describing doctors, patients, nurses, staffing schedules, procedures, prescriptions, and more! 
+For this assignment we'll be using a special 'hospital' database 👨‍⚕️👩‍⚕️💉, which contains data describing doctors, patients, nurses, hospital stays, procedures, prescriptions, and more! 
 
 You will see that this hospital has a world class staff :)
 
